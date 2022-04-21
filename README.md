@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Peter Taylor
+- 👋 Hi, I’m @peterbtaylor
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on anything
